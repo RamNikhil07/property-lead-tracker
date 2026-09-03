@@ -1,0 +1,5 @@
+.venv/
+backend/venv/
+backend/.env
+frontend/my-app/node_modules/
+frontend/my-app/.next/
